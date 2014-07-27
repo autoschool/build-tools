@@ -12,4 +12,4 @@
 ## Некоторые другие языки
 * Javascript: [Grunt](https://github.com/angular/angular.js/blob/master/Gruntfile.js), [Bower](https://github.com/angular/angular.js/blob/master/bower.json)
 * Ruby: [Rakefile](https://github.com/rails/rails/blob/master/Rakefile), [Gemfile](https://github.com/rails/rails/blob/master/Gemfile)
-* [Cabal (Haskell)](https://github.com/jgm/pandoc/blob/master/pandoc.cabal)
+* Haskell: [Cabal](https://github.com/jgm/pandoc/blob/master/pandoc.cabal)
